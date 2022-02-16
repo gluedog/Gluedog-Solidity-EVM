@@ -10,7 +10,7 @@ contract GluedogToken
     /* Triggered whenever approve(address _spender, uint256 _value) is called. */
     event Approval(address indexed _owner, address indexed _spender, uint256 _value);
 
-    /* This notifies clients about the XBL amount burned */
+    /* This notifies clients about the DOG amount burned */
     event Burn(address indexed from, uint256 value);
     
     /* And we begin: */
