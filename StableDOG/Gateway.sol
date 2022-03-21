@@ -1,6 +1,8 @@
 pragma solidity ^0.6.0;
 /* SPDX-License-Identifier: MIT */
 
+/* Stabledog gateway. By gluedog */
+
 contract xSafeMath 
 {
     function add(uint256 a, uint256 b) internal pure returns (uint256)
