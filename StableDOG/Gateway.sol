@@ -1,7 +1,7 @@
 pragma solidity ^0.6.0;
 /* SPDX-License-Identifier: MIT */
 
-/* Stabledog gateway. By gluedog */
+/* Stabledog Gateway. By gluedog */
 
 contract xSafeMath 
 {
