@@ -96,7 +96,7 @@ contract StableDOG is xSafeMath
     uint256 public upper_limit = 105; // $1.05
     uint256 public lower_limit = 95;  // $0.95
 
-    uint256 public stabilize_base_usdog = 100;  /* 250 USDOG is the base that will be sold, increased according to actual price. */
+    uint256 public stabilize_base_usdog = 100;  /* 100 USDOG is the base that will be sold, increased according to actual price. */
     uint256 public stabilize_base_dog   = 1000; /* 1000 DOG is the base that will be sold, increased according to actual price. */
 
     uint256 public fee = 4; /* 4% protocol revenue */
